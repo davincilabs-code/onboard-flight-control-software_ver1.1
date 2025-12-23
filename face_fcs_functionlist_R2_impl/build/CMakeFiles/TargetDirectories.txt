@@ -1,0 +1,3 @@
+/mnt/data/face_fcs_functionlist_R2_impl/build/CMakeFiles/demo.dir
+/mnt/data/face_fcs_functionlist_R2_impl/build/CMakeFiles/edit_cache.dir
+/mnt/data/face_fcs_functionlist_R2_impl/build/CMakeFiles/rebuild_cache.dir

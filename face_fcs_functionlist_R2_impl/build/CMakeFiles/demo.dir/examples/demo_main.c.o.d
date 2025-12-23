@@ -1,0 +1,30 @@
+CMakeFiles/demo.dir/examples/demo_main.c.o: \
+ /mnt/data/face_fcs_functionlist_R2_impl/examples/demo_main.c \
+ /usr/include/stdc-predef.h \
+ /mnt/data/face_fcs_functionlist_R2_impl/common/face_context.h \
+ /mnt/data/face_fcs_functionlist_R2_impl/common/face_types.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdint.h /usr/include/stdint.h \
+ /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+ /usr/include/features.h /usr/include/features-time64.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/bits/timesize.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/long-double.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/time64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+ /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdbool.h \
+ /mnt/data/face_fcs_functionlist_R2_impl/common/face_bus.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stddef.h \
+ /mnt/data/face_fcs_functionlist_R2_impl/common/face_time.h \
+ /mnt/data/face_fcs_functionlist_R2_impl/common/face_log.h \
+ /usr/lib/gcc/x86_64-linux-gnu/12/include/stdarg.h \
+ /mnt/data/face_fcs_functionlist_R2_impl/oss/operarting_system_management/sytem_intializing.h \
+ /mnt/data/face_fcs_functionlist_R2_impl/oss/operarting_system_management/task_allocation.h \
+ /mnt/data/face_fcs_functionlist_R2_impl/oss/operarting_system_management/task_scheduling.h \
+ /mnt/data/face_fcs_functionlist_R2_impl/oss/operarting_system_management/task_execution.h
